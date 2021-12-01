@@ -12,9 +12,9 @@ My first note is on <a href="https://github.com/papascott/DrummerNotes/blob/main
 
 ## Official docs
 
-Change notes
+- Change notes
 
-<a href="http://docserver.scripting.com/">Doc server</a>
+- <a href="http://docserver.scripting.com/">Doc server</a>
 
-About Drummer
+- About Drummer
 
