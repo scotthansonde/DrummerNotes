@@ -12,9 +12,8 @@ My first note is on <a href="https://github.com/papascott/DrummerNotes/blob/main
 
 ## Official docs
 
-- Change notes
-
+- <a href="http://scripting.com/drummer/blog/">Change notes</a>
+  
 - <a href="http://docserver.scripting.com/">Doc server</a>
-
-- About Drummer
-
+  
+- <a href="http://docserver.scripting.com/drummer/about.opml">About Drummer</a>
