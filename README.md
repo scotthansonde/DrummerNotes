@@ -6,6 +6,8 @@ A collection of notes and code about the outliner Drummer http://drummer.scripti
 
 My first note is on <a href="https://github.com/papascott/DrummerNotes/blob/main/caddy.md">using Caddy with PagePark</a>. 
 
+I also have a note on <a href="https://github.com/scotthansonde/DrummerNotes/blob/main/buildingElectron.md">Building Mac electron apps for Linux and Windows</a>.
+
 ## Other resources
 
 - <a href="http://oldschooldrummers.andysylvester.com/">Old School Drummers Reading List</a>  @AndySylvester99
