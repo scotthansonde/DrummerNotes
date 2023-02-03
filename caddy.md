@@ -8,7 +8,7 @@
 
 Here is an example of setting up Caddy on an existing PagePark installation on a Digital Ocean server running Ubuntu (assuming you have domains in your domains folder and have <a href="https://github.com/scripting/pagePark#mapping-port-80-to-1339">mapped port 80 to PagePark</a> using iptables as in the instructions).
 
-1. Install the official Caddy package für Ubuntu <a href="https://caddyserver.com/docs/install#debian-ubuntu-raspbian">per their instructions</a>.  This automatically starts and runs Caddy as a systemd service.
+1. Install the official Caddy package for Ubuntu <a href="https://caddyserver.com/docs/install#debian-ubuntu-raspbian">per their instructions</a>.  This automatically starts and runs Caddy as a systemd service.
 
 1. Open the Caddy configuration file in the nano editor with `sudo nano /etc/caddy/Caddyfile`
 
